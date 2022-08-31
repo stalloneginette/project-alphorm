@@ -67,7 +67,7 @@ web_modules/
 .node_repl_history
 
 # Output of 'npm pack'
-*.xzvf
+*.tgz
 
 # Yarn Integrity file
 .yarn-integrity
