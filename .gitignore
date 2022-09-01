@@ -83,9 +83,9 @@ web_modules/
 .cache
 .parcel-cache
 
-# Next.js build output
+# Next.js build input
 .next
-out
+in
 
 # Nuxt.js build / generate output
 .nuxt
@@ -131,7 +131,7 @@ dist
 
 # vim
 *~
-*#
+*/
 
 
 
